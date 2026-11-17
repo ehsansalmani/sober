@@ -1,0 +1,9 @@
+python sober.py show tools
+python sober.py set chaos yes
+python sober.py set sublist3r no
+python sober.py -d x.ir
+Skip to main content
+
+python3 sober.py -d example.com
+python3 sober.py set ffuf yes
+python3 sober.py --list
