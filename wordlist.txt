@@ -20,6 +20,7 @@ img
 news
 sms
 test
+test1
 video
 www2
 media
